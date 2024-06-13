@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/39833796/opencv-nonetype-object-has-no-attribute-shape
